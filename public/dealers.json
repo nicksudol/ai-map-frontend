@@ -1,0 +1,24 @@
+[
+  {
+    "name": "ABC Graphics",
+    "address": "123 Print Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60601",
+    "phone": "312-555-1234",
+    "email": "sales@abcgraphics.com",
+    "latitude": "41.8839",
+    "longitude": "-87.6319"
+  },
+  {
+    "name": "InkHouse",
+    "address": "456 Ink St",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10001",
+    "phone": "212-555-5678",
+    "email": "info@inkhouse.com",
+    "latitude": "40.7128",
+    "longitude": "-74.0060"
+  }
+]
